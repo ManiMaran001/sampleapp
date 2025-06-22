@@ -1,0 +1,15 @@
+{
+  "name": "samplenodeapp",
+  "version": "1.0.0",
+  "description": "deploy node",
+  "license": "ISC",
+  "author": "Manimaran",
+  "type": "commonjs",
+  "main": "servers.js",
+  "scripts": {
+    "start": "node servers.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
